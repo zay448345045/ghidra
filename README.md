@@ -9,7 +9,7 @@ assembly, decompilation, graphing, and scripting, along with hundreds of other f
 supports a wide variety of processor instruction sets and executable formats and can be run in both 
 user-interactive and automated modes. Users may also develop their own Ghidra extension components 
 and/or scripts using Java or Python.
-
+[![Total Downloads](https://img.shields.io/github/downloads/NationalSecurityAgency/ghidra/total?style=for-the-badge&color=2ea44f&logo=github)](https://github.com/NationalSecurityAgency/ghidra/releases)
 In support of NSA's Cybersecurity mission, Ghidra was built to solve scaling and teaming problems 
 on complex SRE efforts, and to provide a customizable and extensible SRE research platform. NSA has 
 applied Ghidra SRE capabilities to a variety of problems that involve analyzing malicious code and 
